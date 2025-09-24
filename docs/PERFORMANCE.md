@@ -30,3 +30,4 @@
 [2026-08-20 16:06:07 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 888ccf30, by: Kelvin Fomukong Siweh Nkweche)
 [2026-08-24 21:38:22 +0100] perf: refine memory footprint benchmarks across load profiles (ref: d4aeaeec, by: Ndemafia)
 [2026-09-16 13:18:20 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 14899482, by: Ndemafia)
+[2025-09-24 10:52:03 +0100] perf(throughput): profile latency distribution and eliminate bottlenecks (ref: e80a12f4, author: Ndemafia Wilsmith)
