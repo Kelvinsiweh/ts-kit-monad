@@ -8,3 +8,4 @@
 [2025-12-07 09:55:16 +0100] docs: update API documentation and usage guidelines (ci-build-hash: 11b00a89)
 [2025-09-22 21:17:33 +0100] docs: update API documentation and usage guidelines (ref: c299b86c, by: Kelvin Fomukong Siweh Nkweche)
 [2025-09-30 18:25:34 +0100] docs: update API documentation and usage guidelines (ref: 5abe8579, by: Kelvin Fomukong Siweh Nkweche)
+[2025-10-02 16:02:39 +0100] docs: update API documentation and usage guidelines (ref: 264bb507, by: Kelvin Fomukong Siweh Nkweche)
