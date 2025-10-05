@@ -49,3 +49,12 @@ export const match = <T, E, R>(
 };
 
 // Fast path inlining
+
+
+export const tryCatch = <T, E = Error>(fn: () => T, onError: (e: unknown) => E): Result<T, E> => {
+  try {
+    return ok(fn());
+  } catch (err) {
+    return err(onError(err));
+  }
+};
