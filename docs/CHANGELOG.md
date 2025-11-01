@@ -4,3 +4,4 @@
 [2025-10-13 19:48:48 +0100] docs: update API documentation and usage guidelines (ci-build-hash: 2f187691)
 [2025-10-23 17:37:50 +0100] docs: update API documentation and usage guidelines (ci-build-hash: 24b51722)
 [2025-10-31 21:50:13 +0100] docs: update API documentation and usage guidelines (ci-build-hash: a3c33163)
+[2025-11-01 14:21:53 +0100] docs: update API documentation and usage guidelines (ci-build-hash: d20547a3)
