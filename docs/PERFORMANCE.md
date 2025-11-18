@@ -8,3 +8,4 @@
 [2026-03-20 13:28:52 +0100] perf: refine memory footprint benchmarks across load profiles (ci-build-hash: 0f93fde8)
 [2026-03-24 12:55:56 +0100] perf: refine memory footprint benchmarks across load profiles (ci-build-hash: 4cf81ddf)
 [2025-09-30 19:04:05 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 69400e7f, by: Ndemafia)
+[2025-11-18 22:33:56 +0100] perf: refine memory footprint benchmarks across load profiles (ref: ab5aafef, by: Ndemafia)
