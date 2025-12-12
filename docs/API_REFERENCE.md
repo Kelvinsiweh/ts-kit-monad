@@ -5,3 +5,4 @@
 [2025-11-12 20:48:53 +0100] chore: validate package definitions and semantic versioning (ci-build-hash: 28ba76b3)
 [2025-11-16 17:40:28 +0100] chore: validate package definitions and semantic versioning (ci-build-hash: fc357217)
 [2025-11-28 14:37:42 +0100] chore: validate package definitions and semantic versioning (ci-build-hash: ffe53dc1)
+[2025-12-12 11:44:31 +0100] chore: validate package definitions and semantic versioning (ci-build-hash: ddac0261)
