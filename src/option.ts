@@ -30,3 +30,8 @@ export const flatMapOption = <T, U>(
 ): Option<U> => {
   return isSome(opt) ? fn(opt.value) : none;
 };
+
+
+export const filterOption = <T>(opt: Option<T>, predicate: (val: T) => boolean): Option<T> => {
+  return isSome(opt) && predicate(opt.value) ? opt : none;
+};
