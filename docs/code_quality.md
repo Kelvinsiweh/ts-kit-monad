@@ -3,3 +3,4 @@
 [2025-11-14 10:32:44 +0100] style: apply automated formatting and clean up unused imports (ci-build-hash: c6bd7620)
 [2025-11-19 11:17:38 +0100] style: apply automated formatting and clean up unused imports (ci-build-hash: 112864fb)
 [2025-12-20 17:06:09 +0100] style: apply automated formatting and clean up unused imports (ci-build-hash: 7fd7542e)
+[2026-01-26 17:14:31 +0100] style: apply automated formatting and clean up unused imports (ci-build-hash: 52f23c05)
