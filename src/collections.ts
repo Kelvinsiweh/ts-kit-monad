@@ -36,3 +36,6 @@ export const partition = <T>(
   }
   return [truthy, falsy];
 };
+
+
+// Optimized chunking with preallocated arrays
