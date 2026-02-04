@@ -7,3 +7,4 @@
 [2026-01-09 17:13:30 +0100] fix: add boundary checks for malformed input payloads (ci-build-hash: f5780a4b)
 [2026-01-13 22:39:39 +0100] fix: add boundary checks for malformed input payloads (ci-build-hash: a8d3e3f9)
 [2026-01-14 21:47:25 +0100] fix: add boundary checks for malformed input payloads (ci-build-hash: 3230deaa)
+[2026-02-04 18:22:56 +0100] fix: add boundary checks for malformed input payloads (ci-build-hash: 42603d08)
