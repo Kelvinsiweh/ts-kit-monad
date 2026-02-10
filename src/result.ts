@@ -47,3 +47,5 @@ export const match = <T, E, R>(
 ): R => {
   return isOk(res) ? pattern.ok(res.value) : pattern.err(res.error);
 };
+
+// Fast path inlining
