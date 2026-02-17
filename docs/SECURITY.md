@@ -11,3 +11,4 @@
 [2026-01-15 11:49:13 +0100] docs: expand security hardening guidelines and best practices (ci-build-hash: c1be0b7d)
 [2026-02-12 11:28:51 +0100] docs: expand security hardening guidelines and best practices (ci-build-hash: 35c2d2aa)
 [2026-02-15 14:42:20 +0100] docs: expand security hardening guidelines and best practices (ci-build-hash: 47917c68)
+[2026-02-17 09:28:49 +0100] docs: expand security hardening guidelines and best practices (ci-build-hash: 91c77a8d)
