@@ -17,3 +17,7 @@ npm install @kelvin/ts-kit-monad
 
 ### Option Examples
 See tests for full usage.
+
+
+### `tryCatch(fn, onError)`
+Safely wrap synchronous exceptions into `Result<T, E>`.
