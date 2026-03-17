@@ -16,3 +16,4 @@
 [2026-02-04 14:12:50 +0100] refactor: streamline data structures and internal error handling (ci-build-hash: e937c52a)
 [2026-03-03 13:42:19 +0100] refactor: streamline data structures and internal error handling (ci-build-hash: 62c5f268)
 [2026-03-11 13:05:02 +0100] refactor: streamline data structures and internal error handling (ci-build-hash: a6d61d68)
+[2026-03-17 10:22:43 +0100] refactor: streamline data structures and internal error handling (ci-build-hash: cc525dd4)
