@@ -14,3 +14,6 @@ A lightweight, robust, zero-dependency utility library bringing functional error
 ```bash
 npm install @kelvin/ts-kit-monad
 ```
+
+### Option Examples
+See tests for full usage.
