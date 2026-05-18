@@ -30,3 +30,5 @@ describe('Result Monad', () => {
     expect(out).toBe('HELLO');
   });
 });
+
+// Property tests
