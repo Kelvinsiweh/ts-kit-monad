@@ -21,3 +21,4 @@
 [2026-04-22 15:38:14 +0100] docs: update API documentation and usage guidelines (ref: 7b2e8a26, by: Ndemafia)
 [2026-05-16 12:05:49 +0100] docs: update API documentation and usage guidelines (ref: cc0888a2, by: Ndemafia)
 [2026-05-18 18:37:13 +0100] docs: update API documentation and usage guidelines (ref: 7d811d46, by: Ndemafia)
+[2026-05-24 14:02:55 +0100] docs: update API documentation and usage guidelines (ref: fb0201eb, by: Ndemafia)
