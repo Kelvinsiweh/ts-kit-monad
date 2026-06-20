@@ -50,3 +50,5 @@ export const withTimeout = async <T>(
     return err(error instanceof Error ? error : new Error(String(error)));
   }
 };
+
+// Simplified backoff
