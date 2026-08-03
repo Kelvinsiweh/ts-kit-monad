@@ -24,3 +24,4 @@
 [2026-05-28 18:37:37 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 475836b2, by: Ndemafia)
 [2026-06-09 19:16:29 +0100] perf: refine memory footprint benchmarks across load profiles (ref: e2c73873, by: Kelvin Fomukong Siweh Nkweche)
 [2026-06-15 17:32:19 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 35bda3dc, by: Kelvin Fomukong Siweh Nkweche)
+[2026-08-03 17:38:19 +0100] perf: refine memory footprint benchmarks across load profiles (ref: 498b27bd, by: Ndemafia)
